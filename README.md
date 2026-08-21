@@ -1,27 +1,27 @@
 # Coreqm-Download
 
-Coreqm-Download, [coreqm.com](https://coreqm.com) platformu tarafından sunulan araçlar ve kurulum paketleri için resmi indirme ve yönetim deposudur.
+Coreqm-Download is the official repository for download packages, desktop applications, and utilities provided by the [coreqm.com](https://coreqm.com) platform.
 
-## 🚀 Coreqm Nedir? Neden Tercih Edilmeli?
+## 🚀 What is Coreqm? Why Choose It?
 
-**[coreqm.com](https://coreqm.com)**, geliştiriciler ve içerik üreticileri için tasarlanmış kurumsal düzeyde bir **Claude API Gateway (Geçidi)** ve **Yapay Zeka Otomasyon** platformudur. Claude Code, Cursor AI ve özel uygulamalarınızı tek bir anahtarla (API key) yönetmenizi sağlar.
+**[coreqm.com](https://coreqm.com)** is an enterprise-grade **Claude API Gateway** and **AI Automation** platform designed specifically for developers and content creators. It enables you to power Claude Code, Cursor AI, and custom AI applications with a single API key.
 
-### ✨ Öne Çıkan Özellikler:
+### ✨ Key Features:
 
-- **Tek Anahtar, Üç Format (One Key, Three Formats):** Tek bir API anahtarı ile Anthropic, OpenAI ve NVIDIA uyumlu uç noktaları (endpoints) besleyebilirsiniz. Kodunuzu değiştirmeden API geçidini yönlendirebilirsiniz.
-- **Tek Tıkla Hazır Web Çözümleri (Showcase):** coreqm.com, tamamen responsive (mobil ve masaüstü uyumlu), sıfır emoji ve saf SVG ikonlarla tasarlanmış, üretime hazır **8 adet yüksek performanslı web sitesi şablonu** sunar. Tek tıklamayla canlı önizleme yapabilir ve projelerinizi hızlandırabilirsiniz!
-- **Fikirlerden Ürüne Hızlı Geçiş:** Platform; mobil uygulamalar (Flutter), masaüstü programları (Flutter/Electron) ve modern web siteleri (Next.js/Vue.js) için rehberlik sunar.
-- **Hazır Şablonlar & Gelir Modelleri:** Diş hekimi randevu sistemlerinden restoran sipariş otomasyonlarına, yapay zeka destekli müşteri asistanlarından niş e-ticaret sitelerine kadar birçok projenin tek tıkla veya hızlıca hayata geçirilmesinde öncülük eder.
-- **Şeffaf ve Güvenli Kullanım:** Günlük/toplam token takibi, anlık bakiye sorgulama ve üst düzey güvenlik (API anahtarlarınız asla düz metin olarak kaydedilmez, sadece SHA-256 hash'leri saklanır).
+- **One Key, Three Formats:** Power your applications using Anthropic, OpenAI, or NVIDIA compatible endpoints. Switch formats seamlessly without changing your codebase.
+- **Turnkey Web Solutions (Showcase):** coreqm.com offers **8 high-performance website templates** designed with pure SVG icons and zero emojis. Fully responsive (mobile 9:16 & desktop viewports) and ready for production with a single click!
+- **From Idea to Product:** The platform guides you through choosing the best stacks (Flutter for Mobile/Desktop, Next.js/Vue.js for Web) and languages (Python, PHP, Node.js) for your specific project.
+- **Ready-To-Use Ideas & Monetization:** Jumpstart various systems like Clinic/Dentist Appointment Systems, Restaurant QR Ordering, AI-powered Customer Support Chatbots (SaaS), Gym trackers, and more.
+- **Transparent & Secure:** Monitor daily/total token consumption, view billing records, and benefit from cryptographic security where only SHA-256 hashes of your keys are stored in the database.
 
 ---
 
-## 📦 Kurulum ve Kullanım
+## 📦 Installation & Usage
 
-Depomuzda bulunan güncel kurulum paketlerine ve yardımcı araçlara erişmek için dosyaları indirebilirsiniz.
+You can download the latest desktop distribution packages directly from this repository.
 
-### ⬇️ CoreQM Kurulum Programı
-Bu depoda yer alan en güncel masaüstü kurulum aracına aşağıdaki dosyadan ulaşabilirsiniz:
-- [`CoreQM-Setup.exe`](file:///d:/Coreqm-Download/CoreQM-Setup.exe) (Masaüstü uygulaması kurulum aracı)
+### ⬇️ CoreQM Setup Executable
+Access the latest desktop installer here:
+- [`CoreQM-Setup.exe`](file:///d:/Coreqm-Download/CoreQM-Setup.exe) (Desktop Application Setup)
 
-Detaylı dökümantasyon ve daha fazlası için lütfen **[coreqm.com/docs](https://coreqm.com/docs)** adresini ziyaret edin.
+For detailed developer documentation, visit **[coreqm.com/docs](https://coreqm.com/docs)**.
