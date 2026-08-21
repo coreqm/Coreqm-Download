@@ -22,6 +22,6 @@ You can download the latest desktop distribution packages directly from this rep
 
 ### ⬇️ CoreQM Setup Executable
 Access the latest desktop installer here:
-- [`CoreQM-Setup.exe`](file:///d:/Coreqm-Download/CoreQM-Setup.exe) (Desktop Application Setup)
+- [CoreQM-Setup.exe](https://github.com/muhammedaligurdal/Coreqm-Download/releases/download/v1.0.0/CoreQM-Setup.exe) (Desktop Application Setup)
 
 For detailed developer documentation, visit **[coreqm.com/docs](https://coreqm.com/docs)**.
